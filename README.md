@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="banner.png" width="100%" />
 
-<!--
-**dotoricode/dotoricode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# dotoricode
 
-Here are some ideas to get you started:
+Building developer tools and structured workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Project
+
+- **bkit-doctor**  
+  CLI tool for structured workflow management inspired by bkit
+
+## ⚙️ Focus
+
+- developer tooling
+- workflow systems
+- AI-assisted development (Claude Code)
+
+## 🔄 Current Work
+
+- improving recommendation & init flow
+- designing structured project systems
+- experimenting with AI-assisted workflows
+
+## 🧪 Philosophy
+
+Design systems that scale with development workflows.
+Keep things simple, structured, and extensible.
