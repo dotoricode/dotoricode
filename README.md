@@ -4,18 +4,18 @@
 
 I build small AI office systems for solo builders.
 
-Right now I'm turning Hermes Desktop into the operating room for acorn, my one-person company. The setup brings agents, skills, memory, cron jobs, wiki notes, and mistake logs into one desktop workspace.
+Right now I'm turning Hermes Desktop into the control room for acorn-labs, my one-person company. The setup brings agents, skills, memory, cron jobs, wiki notes, and mistake logs into one desktop workspace.
 
 ## current focus
 
-- Hermes Desktop as the acorn office
+- Hermes Desktop as the acorn-labs office
 - Korean and English writing that does not sound machine-made
 - agent workflows with files, logs, diffs, tests, or status values behind them
 - small tools for people who mostly work alone
 
-## main projects
+## projects and experiments
 
-- [hermes-desktop](https://github.com/dotoricode/hermes-desktop): an acorn-labs experiment by dotori, built on Hermes Desktop
+- [hermes-desktop](https://github.com/dotoricode/hermes-desktop): an acorn-labs experiment by dotori, adapting Hermes Desktop into a personal AI office
 - [korean-humanizer](https://github.com/dotoricode/korean-humanizer): a Korean writing skill that removes the usual AI smell from generated text
 - [cerberus](https://github.com/dotoricode/cerberus): a three-gate workflow for Claude Code: spec, plan, and intent
 - [prompt-grill](https://github.com/dotoricode/prompt-grill): experiments around prompts, review, and better AI output
