@@ -11,15 +11,15 @@ Right now I am turning Hermes Desktop into the operating room for acorn-labs, my
 ## Start here
 
 - [hermes-desktop](https://github.com/dotoricode/hermes-desktop)
-  - My main experiment: Hermes Desktop as a personal AI office. Agents, workspace state, chat, and operating routines in one place.
+  - My main experiment: Hermes Desktop as a personal AI office. This is a fork-based workspace where I adapt agents, workspace state, chat, and operating routines for acorn-labs.
 - [korean-humanizer](https://github.com/dotoricode/korean-humanizer)
   - A small Korean writing skill for removing the usual AI smell from generated text. Useful if you publish in Korean and hate polished nonsense.
-- [cerberus](https://github.com/dotoricode/cerberus)
-  - A three-gate workflow for coding agents: spec, plan, intent. It slows the agent down before it writes code, which is often exactly what you want.
 - [prompt-grill](https://github.com/dotoricode/prompt-grill)
   - Prompt and review experiments for getting cleaner output from coding agents.
-- [autonomous-flow-daemon](https://github.com/dotoricode/autonomous-flow-daemon)
-  - Early work on long-running agent workflows that can notice failures and recover instead of waiting for a human nudge.
+- [dotClaude](https://github.com/dotoricode/dotClaude)
+  - Claude Code settings, skills, commands, and sync tools that document how I run coding agents.
+- [tuz-landing](https://github.com/dotoricode/tuz-landing)
+  - A lightweight landing-page experiment for packaging small product ideas in public.
 
 ## What I am building toward
 
