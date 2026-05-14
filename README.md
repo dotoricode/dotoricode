@@ -10,24 +10,16 @@ Right now I am turning Hermes Desktop into the operating room for acorn-labs, my
 
 ## Start here
 
-- [hermes-desktop](https://github.com/dotoricode/hermes-desktop)
-  - My main experiment: Hermes Desktop as a personal AI office. This is a fork-based workspace where I adapt agents, workspace state, chat, and operating routines for acorn-labs.
 - [korean-humanizer](https://github.com/dotoricode/korean-humanizer)
   - A small Korean writing skill for removing the usual AI smell from generated text. Useful if you publish in Korean and hate polished nonsense.
 - [prompt-grill](https://github.com/dotoricode/prompt-grill)
   - Prompt and review experiments for getting cleaner output from coding agents.
-- [dotClaude](https://github.com/dotoricode/dotClaude)
-  - Claude Code settings, skills, commands, and sync tools that document how I run coding agents.
-- [tuz-landing](https://github.com/dotoricode/tuz-landing)
-  - A lightweight landing-page experiment for packaging small product ideas in public.
 
 ## What I am building toward
 
-- A desktop office that starts the company when I open it
 - Agent workflows that leave evidence behind
 - Korean and English writing tools that sound like a person wrote them
 - Small utilities for people running mostly alone
-- A public trail of experiments that other builders can copy, fork, or improve
 
 ## Working style
 
@@ -39,7 +31,7 @@ No magic dashboards unless they map back to files, logs, diffs, tests, or API st
 
 저는 acorn-labs라는 이름으로 1인 창업자와 개발자를 위한 AI 사무실을 만들고 있습니다.
 
-Hermes Desktop을 켜면 그날의 작업, 에이전트, 스킬, 정기 업무, 기록이 한곳에 모이는 구조를 실험하고 있습니다. 아직 완성된 제품이라기보다는 매일 직접 쓰면서 다듬는 운영 시스템에 가깝습니다.
+Hermes 를 켜면 그날의 작업, 에이전트, 스킬, 정기 업무, 기록이 한곳에 모이는 구조를 실험하고 있습니다. 아직 완성된 제품이라기보다는 매일 직접 쓰면서 다듬는 운영 시스템에 가깝습니다.
 
 관심 있는 저장소가 있으면 README를 먼저 보고, 쓸 만해 보이면 star나 follow로 표시해 주세요. 어떤 실험이 더 공개할 가치가 있는지 판단하는 데 도움이 됩니다.
 
