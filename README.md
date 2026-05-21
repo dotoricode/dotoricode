@@ -1,42 +1,38 @@
-<img src="assets/banner-acorn-labs-ai-office.svg" width="100%" alt="acorn-labs AI office systems" />
+# dotori
 
-# dotori @ acorn-labs
+I’m dotori, also `dotoricode`.
 
-I build AI office systems for solo builders.
+I build small tools and workflows around coding agents, AI-assisted development, and writing. Most of my work starts from a personal workflow problem: something is too manual, too fragile, or too hard to repeat, so I build a small system around it.
 
-The thing I keep coming back to: AI agents are useful only when their work is visible. If an agent says it changed something, I want a file, diff, log, test, or status value behind it.
+## What I’m focused on
 
-Right now I am turning Hermes Desktop into the operating room for acorn-labs, my one-person company. The stack is simple on purpose: agents for execution, skills for repeatable work, cron for recurring jobs, memory for stable preferences, wiki notes for research, and mistake logs so the same failure hurts only once.
+- making coding agents more reliable in real projects
+- building local workflows around Claude Code and AI devtools
+- turning messy notes into clear writing
+- publishing small tools that I actually use
 
-## Start here
+## Projects
 
-- [korean-humanizer](https://github.com/dotoricode/korean-humanizer)
-  - A small Korean writing skill for removing the usual AI smell from generated text. Useful if you publish in Korean and hate polished nonsense.
-- [prompt-grill](https://github.com/dotoricode/prompt-grill)
-  - Prompt and review experiments for getting cleaner output from coding agents.
+- [tink-harness](https://github.com/dotoricode/tink-harness): self-growing harnesses for Claude Code
+- [korean-humanizer](https://github.com/dotoricode/korean-humanizer): Korean writing prompts and skills that remove the usual AI smell
+- [prompt-grill](https://github.com/dotoricode/prompt-grill): prompt and review experiments for cleaner coding-agent output
+- [cup-margin](https://github.com/dotoricode/cup-margin): a lightweight margin notebook for cafe owners
 
-## What I am building toward
+## How I work
 
-- Agent workflows that leave evidence behind
-- Korean and English writing tools that sound like a person wrote them
-- Small utilities for people running mostly alone
+I like boring tools with clear outputs.
 
-## Working style
-
-I prefer boring tools with clear outputs.
-
-No magic dashboards unless they map back to files, logs, diffs, tests, or API state. No agent self-reports unless I can verify them. No giant process if a checklist and a cron job will do.
+No magic dashboards unless they map back to files, logs, diffs, tests, or API state. No agent self-reports unless I can verify them. No giant process if a checklist and a small script will do.
 
 ## 한국어
 
-저는 acorn-labs라는 이름으로 1인 창업자와 개발자를 위한 AI 사무실을 만들고 있습니다.
+저는 `dotori`라는 이름으로 AI 개발 도구, 코딩 에이전트 워크플로우, 글쓰기 도구를 만들고 있습니다.
 
-Hermes 를 켜면 그날의 작업, 에이전트, 스킬, 정기 업무, 기록이 한곳에 모이는 구조를 실험하고 있습니다. 아직 완성된 제품이라기보다는 매일 직접 쓰면서 다듬는 운영 시스템에 가깝습니다.
+요즘 가장 많이 보는 문제는 “에이전트가 뭔가 했다고 말하는데, 실제 근거가 없는 상황”입니다. 그래서 파일, diff, 로그, 테스트, 상태값처럼 사람이 다시 확인할 수 있는 흔적을 남기는 작업 흐름에 관심이 많습니다.
 
-관심 있는 저장소가 있으면 README를 먼저 보고, 쓸 만해 보이면 star나 follow로 표시해 주세요. 어떤 실험이 더 공개할 가치가 있는지 판단하는 데 도움이 됩니다.
+작게 만들고, 직접 써보고, 쓸 만한 부분만 공개합니다.
 
 ## Links
 
 - GitHub: [dotoricode](https://github.com/dotoricode)
 - Blog: [blog.naver.com/vide03](https://blog.naver.com/vide03)
-- Company handle: `acorn-labs`
