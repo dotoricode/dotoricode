@@ -1,24 +1,37 @@
-<p align="center">
-  <img src="./assets/dotori-mark.png" width="96" alt="dotori acorn mark" />
-</p>
+# dotori
 
-# Hi, I'm dotori
+a lazy developer trying to get more output from less input.
 
-I build small, practical systems that make software work clearer, safer, and more repeatable.
+The boring failure mode:
+something changed, but nothing inspectable was left behind.
 
-**dotori** means acorn. I look like one.
+I like work that leaves handles:
 
-I care about tools that reduce repeated mistakes, create calm workflows, and help people trust what their software is doing.
+files, diffs, logs, tests, notes.
 
-## Currently exploring
+## start here
 
-- Harness-driven development workflows
-- Better tools for AI-assisted coding
-- Practical software for real work
+- **[korean-humanizer](https://github.com/dotoricode/korean-humanizer)**
+  A Korean writing tool for removing the usual AI smell from generated text.
 
-## Principles
+- **[tink-harness](https://github.com/dotoricode/tink-harness)**
+  A small tool for building task-specific harnesses.
 
-- Small surface area
-- Clear defaults
-- Lightweight guardrails
-- Reversible decisions
+## working notes
+
+I prefer boring tools with clear outputs.
+
+A checklist is better than a ritual.
+A cron job is better than a vague reminder.
+A diff is better than a progress report.
+A failing test is better than a confident answer.
+
+## 한국어
+
+최소한의 인풋으로 최대한의 아웃풋을 내고 싶은 게으른 개발자입니다.
+반복되는 일은 도구로 만들고, 확인 가능한 흔적이 남는 작업을 좋아합니다.
+
+## links
+
+- Blog: https://blog.naver.com/vide03
+- GitHub: https://github.com/dotoricode
