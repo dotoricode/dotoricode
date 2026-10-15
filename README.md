@@ -4,6 +4,12 @@ I build mobile security SDKs for Android and iOS. My work spans native developme
 
 I also build tools that make working with AI agents easier to understand and review.
 
+## What I’m focused on
+
+I’m focused on reducing AI-generated code slop through small, reviewable steps and understanding the core logic before moving on. I built Baby Steps to make that understanding part of the development workflow.
+
+I’m also exploring code reviews grounded in team rules and conventions, system context, and change history. Those details matter to me when building reliable products and keeping software maintainable over time.
+
 ## Selected projects
 
 - [Korean Humanizer](https://github.com/dotoricode/korean-humanizer) — An agent skill for making Korean writing more natural while preserving its meaning
